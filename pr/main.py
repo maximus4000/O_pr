@@ -42,4 +42,4 @@ async def tempchange(ctx, quest):
     elif quest == "changetemp":
         await ctx.send("За последние 100 лет температура выросла на 1,2 С")
 
-bot.run("MTE1NTQ0MzI4ODA5NTA4MDQ3OA.GXbcH1.FHK3-JwIiwDGfzjQLLyV8metcaAie8J79WH4Mo")
+bot.run("Token")
